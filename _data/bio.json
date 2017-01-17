@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jake Denton-Kubo",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://jaketdk.github.io/images/molly.png",
+    "email": "jaketdk@hawaii.edu",
+    "phone": "808-224-6565",
+    "website": "https://jaketdk.github.io",
+    "summary": "I am studying for a B.A. in Information and Computer Sciences with a focus in Security Science in the Department of Information and Computer Sciences at the University of Hawaii at Mānoa. I expect to graduate in the Spring of 2019.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,24 +17,14 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "jaketdk",
+        "url": "http://github.com/jaketdk"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "jaketdk",
+        "url": "http://linkedin.com/in/jaketdk"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
