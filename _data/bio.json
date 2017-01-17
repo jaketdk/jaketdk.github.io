@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.A. in Information and Computer Sciences with a focus in Security Science in the Department of Information and Computer Sciences at the University of Hawaii at Mānoa. I expect to graduate in the Spring of 2019.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96821",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -29,19 +29,17 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Networking",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Information Technology",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Security",
       "keywords": [
       ]
     }
@@ -70,7 +68,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Information and Computer Sciences (expected Spring, 2019)",
       "studyType": "B.A.",
       "startDate": "2015-08-24",
       "endDate": "Present",
@@ -112,7 +110,7 @@
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
