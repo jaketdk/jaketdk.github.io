@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My (second-ever) in-depth look at a programming language: JavaScript
+title: A Look into JavaScript
 date: 2017-01-20
 labels:
   - JavaScript
