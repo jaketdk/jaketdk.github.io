@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: My (second-ever) in-depth look at a programming language: JavaScript
-date: 2016-02-06
+date: 2017-01-20
 labels:
   - JavaScript
   - Software Engineering
