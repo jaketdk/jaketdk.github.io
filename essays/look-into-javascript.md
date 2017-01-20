@@ -1,10 +1,12 @@
 ---
 layout: essay
 type: essay
-title: The difficult things will always be difficult
+title: My (second-ever) in-depth look at a programming language: JavaScript
 date: 2016-02-06
 labels:
-  - Engineering
+  - JavaScript
+  - Software Engineering
+  - Learning
 ---
 
 <img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
