@@ -9,7 +9,7 @@ labels:
   - Learning strategies
 ---
 
-<img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui tiny right spaced image" src="../images/logo_JavaScript.png">*JavaScript is like baby Java!*
 
 My first go at JavaScript was actually not in this class. Though not taught formally, I tried to make use of it. It was when I was at work messing around with VBScript that I was exposed to JavaScript (referred to as JScript by Microsoft for copyright reasons). I did not do much with it as I couldn't seem to get JScript to work in place of VBScript.
 
