@@ -1,24 +1,26 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/pacman.png
+title: PAC MAN
+permalink: projects/pacman
+date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - ICS 111
+  - Jason Leigh
+  - EZ
+summary: A maze game written by Jake Denton-Kubo, Kristine Manog, and Eton Zhou.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/pacman.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+PAC MAN was what we called it. It really wasn't that similar to the actual PAC MAN game but we used him as the main character.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+PAC MAN was implemented using Java and EZ Graphics. The goal of the game is to move the character to the end within a set amount of time.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+I was responsible for the movement of the PAC MAN object on the screen and the logic behind the bounds within the lines.
+
+You can watch a demonstration of it [here](https://youtu.be/HwvhAXWHtPg).
+
+*I am not sure what the rules are about sharing code for a project that I do not fully own.*

@@ -1,29 +1,33 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
-date: 2015
+image: images/moped.jpg
+title: Puch Maxi restoration
+permalink: projects/moped
+date: 2014
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - No Computers
+  - Moped
+  - High School
+summary: I restored an old 1978 Puch Maxi.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/moped.jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+I always loved anything mechanical. When I was old enough to get a permit, I bought a moped. It was brand new but as with any vehicle produced these days, it was heavy and un-engaging. While it was reliable, I still wanted something fun and unique.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+## Motorized Bicycle
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Prior to all of this during one summer, a friend and I build a motorized bicycle. This wasn't any old motorized bicycle. This one has a gasoline engine. Most bikes out there have electric motors. While this was a fun project, it was difficult because things kept breaking. Bicycles were never meant to travel at highway speeds! Constantly repairing it got old fast.
 
+## The purchase
 
+Puch mopeds are hard to come by here in Hawaii. Most of them have rusted away after all these years. I found one guy who's hobby was restoring and building classic and custom mopeds. His name was Anthony. I knew what I wanted. After reading up on different models, I discovered that the Puch Maxi was the most common model sold in the US. It was a trade off because while that meant having one wouldn't be so unique, it did mean that getting parts for it wouldn't be too much of a hassle. I found Anthony and my grandparents came with me to his shop to pick up the bike.
 
+## The bike and its issues
+
+The moped did not run well when I bought it. Every bit of it was rusted, the suspension was terrible, and the engine and carburetor needed work. What I loved most about this bike was its simple design. The engine was not obscured by anything. It hung right out of the bottom of the frame.
+
+You can learn more about *real* mopeds at the [Moped Army](http://www.mopedarmy.com/).
