@@ -30,7 +30,9 @@ WODs! I love them! I can certainly see the value in doing timed exercises. If yo
 ### Practice WODs
 
 The practice WODs are a great prep tool. While the actual WOD may differ greatly from the practice, you will at least get an idea of what the difficulty level of the upcoming WOD will be.
+
 #### AmyWOD
+
 AmyWODs are more practice WODs but are supposed to be similar to the real ones. I have not (and would likely never have) attended an AmyWOD. My work schedule falls on the times that AmyWODs are scheduled. I do wish I *could*, however. It seems I will have to just make due with the in-class practice. On the bright side, it will be more of a challenge.
 
 ## Flippin' flipped classrooms
