@@ -11,36 +11,18 @@ labels:
 
 <img class="ui tiny right spaced image" src="../images/degree_difficulty.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
 
-My first go at JavaScript was actually not in this class. Though not taught formally, I tried to make use of it. It was when I was at work messing around with VBScript that I was exposed to JavaScript (referred to as JScript by Microsoft for copyright reasons). I did not do much with it as I couldn't seem to use JScript 
+My first go at JavaScript was actually not in this class. Though not taught formally, I tried to make use of it. It was when I was at work messing around with VBScript that I was exposed to JavaScript (referred to as JScript by Microsoft for copyright reasons). I did not do much with it as I couldn't seem to get JScript to work in place of VBScript.
 
-## In the context of programming
+Scripting languages are some of my favorite because they are used to *do* things, not necessarily *make* things (though they can be).
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+##JavaScript. It's like Java but for scripting
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+Being that it was my first programming language, I love Java. It is very beginner friendly. If your priority is performance though, maybe Java isn't right for you.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+JavaScript takes a lot of syntax from Java. This is why I love JavaScript. It was just a small learning curve I had to overcome to become familiar.
 
-## In the context of engineering
+I am starting to understand the use for JavaScript in web development. It is what separates online resources from traditional media: interactivity. With just HTML, there isn't much room for speedy interaction and reaction.
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+##Athletic Software Engineering - WOD (WorkOut of the Day)
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+WODs! I love them! I can certainly see the value in doing timed exercises. If you can create small programs in a short amount of time, you will definitely be a better team-player when working with a development team. Being efficient with your time might not seem like much. I mean, what's a couple of minutes going to do? If you must ask yourself this, then consider this: what we do in these small WODs are just small parts to the greater software project. If it takes you an extra five minutes to a small snippet, imagine writing hundreds, if not more! Your wasted time would add up to something very significant.
