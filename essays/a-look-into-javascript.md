@@ -26,3 +26,9 @@ I am starting to understand the use for JavaScript in web development. It is wha
 ##Athletic Software Engineering - WOD (WorkOut of the Day)
 
 WODs! I love them! I can certainly see the value in doing timed exercises. If you can create small programs in a short amount of time, you will definitely be a better team-player when working with a development team. Being efficient with your time might not seem like much. I mean, what's a couple of minutes going to do? If you must ask yourself this, then consider this: what we do in these small WODs are just small parts to the greater software project. If it takes you an extra five minutes to a small snippet, imagine writing hundreds, if not more! Your wasted time would add up to something very significant.
+
+###Practice WODs
+
+The practice WODs are a great prep tool. While the actual WOD may differ greatly from the practice, you will at least get an idea of what the difficulty level of the upcoming WOD will be.
+####AmyWOD
+AmyWODs are more practice WODs but are supposed to be similar to the real ones. I have not (and would likely never have) attended an AmyWOD. My work schedule falls on the times that AmyWODs are scheduled. I do wish I *could*, however. It seems I will have to just make due with the in-class practice. On the bright side, it will be more of a challenge.
