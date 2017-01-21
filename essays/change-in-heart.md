@@ -9,7 +9,7 @@ labels:
   - Computer Science
 ---
 
-_**//IN PROGRESS//**_
+_**IN PROGRESS**_
 
 I have always loved computers. My first computer was given to me by my dad. His workplace was throwing it away so he took it. It was one of those old beige Dell towers with a chunky CRT monitors. It was with this machine that I realized my one true love: technology.
 
