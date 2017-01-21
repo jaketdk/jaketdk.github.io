@@ -9,6 +9,8 @@ labels:
   - Computer Science
 ---
 
+_**//IN PROGRESS//**_
+
 I have always loved computers. My first computer was given to me by my dad. His workplace was throwing it away so he took it. It was one of those old beige Dell towers with a chunky CRT monitors. It was with this machine that I realized my one true love: technology.
 
 This was back in the prime days of Windows 98. Windows XP had just come out but for a child, 98 ran all of the essentials. What more could you ask? As I ran through my entire library of games and programs, my mom decided it was time to expand my horizon. Thus, the 56k modem was installed.
