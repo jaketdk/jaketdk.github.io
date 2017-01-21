@@ -41,7 +41,7 @@ What is a flipped classroom? It is a style of teaching that makes most of the pa
 
 ### Why this doesn't work for me
 
-To say answer briefly, none of my other classes follow this format. This may not seem like much of an issue but when other classes have big assignments due before lecture, they will ultimately take precedence over passive study time. Almost anyone would agree that students should focus first on the things that have a direct impact on your grades.
+To answer briefly, none of my other classes follow this format. This may not seem like much of an issue but when other classes have big assignments due before lecture, they will ultimately take precedence over passive study time. Almost anyone would agree that students should focus first on the things that have a direct impact on your grades.
 
 ### Don't get me wrong,
 
