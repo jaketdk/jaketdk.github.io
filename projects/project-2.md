@@ -22,5 +22,3 @@ PAC MAN was implemented using Java and EZ Graphics. The goal of the game is to m
 I was responsible for the movement of the PAC MAN object on the screen and the logic behind the bounds within the lines.
 
 You can watch a demonstration of it [here](https://youtu.be/HwvhAXWHtPg).
-
-*I am not sure what the rules are about sharing code for a project that I do not fully own.*
