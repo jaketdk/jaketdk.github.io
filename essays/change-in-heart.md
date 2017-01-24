@@ -10,7 +10,6 @@ labels:
   - Computer Science
 ---
 
-_**IN PROGRESS**_
 
 I have always loved computers. My first computer was given to me by my dad. His workplace was throwing it away so he took it. It was one of those old beige Dell towers with a chunky CRT monitors. It was with this machine that I realized my one true love: technology.
 
@@ -24,4 +23,4 @@ I have always wanted to go into Information Technology. Ever since I outgrew the
 
 Computer Science was not something that I wanted to study but it was my best alternative. I always thought coding was boring and sucked. Despite this attitude, I enrolled in my first computer science classes as a freshman.
 
-My first semester at UH, I took two ICS classes. One was Jason Leigh's ICS 111, Introduction to Computer Science I. The other was Kazuo Sugihara's ICS 241, Discrete Mathematics for Computer Science I.
+My first semester at UH, I took two ICS classes. One was Jason Leigh's ICS 111, Introduction to Computer Science I. The other was Kazuo Sugihara's ICS 141, Discrete Mathematics for Computer Science I.
