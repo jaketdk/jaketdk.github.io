@@ -1,5 +1,5 @@
 ---
-published:true
+published: true
 layout: essay
 type: essay
 title: Reflect on Smart Questions
