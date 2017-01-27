@@ -6,8 +6,8 @@ title: Item Collecting
 permalink: projects/collecting
 date: 2016
 labels:
-  - Lisp
-  - GitHub
+  - Java
+  - EZ
 summary: A graphical game created for ICS 111.
 ---
 
