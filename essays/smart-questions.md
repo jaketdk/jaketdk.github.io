@@ -25,7 +25,10 @@ So, what is Stack Exchange? It is an online Q&A board with an emphasis on comput
 
 ## You say that Stack Exchange is not like Yahoo! Answers. Does that mean there are no bad questions?
 No. Every website that allows people to freely interact and post content will inevitably have "shitposts". What I mean is that Stack Exchange doesn't have a *reputation* for low-quality content.
+
 ### Examples
+
 #### Bad
+
 [Here](http://stackoverflow.com/q/41888889) is a bad Stack Overflow question. Where do we begin? First of all, let me reinforce that questions that people have are not stupid. It is that the way questions are asked are bad. Reading this post, one would kind of get an idea of what the question is asking. The problem is that it is not detailed enough. It is not clear what the asker is looking for. No one wants to play the guessing game when trying to offer help. Always remember that most people who answer these questions are not being paid. Most people can't be bothered to waste time writing answers, only to be told later that it wasn't what the asker wanted. It is much easier to downvote a post than to probe for more details.
 #### Good
