@@ -51,6 +51,7 @@
       "keywords": [
         "Java",
         "Javascript",
+        "Python",
       ]
     },
     {
@@ -78,6 +79,18 @@
     }
   ],
   "work": [
+    {
+      "company": "Ka Leo (University of Hawaii)",
+      "position": "Distribution Assistant",
+      "website": "http://www.manoanow.org/kaleo/",
+      "startDate": "2017-05-09",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Ensure new issues are distributed across campus in a timely manner.",
+        "Maintain and repair newspaper stands on and near campus."
+      ]
+    },
     {
       "company": "City Mill Company, Limited",
       "position": "Desktop Support / POS Specialist",
