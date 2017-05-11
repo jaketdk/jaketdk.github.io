@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: essay
 type: essay
 title: Reflect on Smart Questions
@@ -35,4 +35,4 @@ No. Every website that allows people to freely interact and post content will in
 [Here](http://stackoverflow.com/q/41888889) is a bad Stack Overflow question. Where do we begin? First of all, let me reinforce that questions that people have are not stupid. It is that the way questions are asked are bad. Reading this post, one would kind of get an idea of what the question is asking. The problem is that it is not detailed enough. It is not clear what the asker is looking for. No one wants to play the guessing game when trying to offer help. Always remember that most people who answer these questions are not being paid. Most people can't be bothered to waste time writing answers, only to be told later that it wasn't what the asker wanted. It is much easier to downvote a post than to probe for more details.
 
 #### Good
-[Here](http://stackoverflow.com/q/41888855) is an example of a good question. Notice how detailed the post is. It is not just a simple request for help with no background information given. The asker made answering the question as easy as possible. There were lots of details given about the problem and the asker ended with a concise list of questions he/she would like answered. You should notice that this question was met with a lot of participation and a high point count. This is because it was overall, a good post. 
+[Here](http://stackoverflow.com/q/41888855) is an example of a good question. Notice how detailed the post is. It is not just a simple request for help with no background information given. The asker made answering the question as easy as possible. There were lots of details given about the problem and the asker ended with a concise list of questions he/she would like answered. You should notice that this question was met with a lot of participation and a high point count. This is because it was overall, a good post.
