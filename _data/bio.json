@@ -68,9 +68,19 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information and Computer Sciences (expected Spring, 2019)",
+      "institution": "University of Hawaii at Mānoa, Honolulu, HI",
+      "area": "Information and Computer Sciences - Security Science (expected Spring, 2019)",
       "studyType": "B.A.",
+      "startDate": "2015-08-24",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii at Mānoa, Honolulu, HI",
+      "area": "German (expected Spring, 2019)",
+      "studyType": "Certificate",
       "startDate": "2015-08-24",
       "endDate": "Present",
       "gpa": "",
@@ -100,7 +110,21 @@
       "summary": "",
       "highlights": [
         "Troubleshoot hardware, software, and network issues.",
-        "Assist the higher level IT staff with projects and keep things running smoothly."
+        "Maintain smooth, trouble-free operations in both the administration and the store level."
+      ]
+    },
+    {
+      "company": "Ka Leo (University of Hawaii)",
+      "position": "Distribution Assistant",
+      "website": "http://www.kaleo.org",
+      "startDate": "2017-05-25",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Receive deliveries from shipping.",
+        "Fill and keep inventory counts of newsstands on and off campus.",
+        "Maintain neat appearance of newsstands.",
+        "Repair stands as needed."
       ]
     },
     {
