@@ -6,7 +6,7 @@
     "email": "jaketdk@hawaii.edu",
     "phone": "808-224-6565",
     "website": "https://jaketdk.github.io",
-    "summary": "I am studying for a B.A. in Information and Computer Sciences with a focus in Security Science in the Department of Information and Computer Sciences at the University of Hawaii at Mānoa. I expect to graduate in the Spring of 2019. I am also a Desktop Support / POS Specialist for City Mill Company, Limited.",
+    "summary": "I am studying for a B.A. in Information and Computer Sciences in the Department of Information and Computer Sciences at the University of Hawaii at Mānoa. I expect to graduate in the Spring of 2019. I am also a Desktop Support / POS Specialist for City Mill Company, Limited.",
     "location": {
       "address": "",
       "postalCode": "96821",
@@ -72,7 +72,7 @@
   "education": [
     {
       "institution": "University of Hawaii at Mānoa, Honolulu, HI",
-      "area": "Information and Computer Sciences - Security Science (expected Fall, 2019)",
+      "area": "Information and Computer Sciences - Security Science (expected Fall, 2020)",
       "studyType": "B.A.",
       "startDate": "2015-08-24",
       "endDate": "Present",
@@ -85,7 +85,11 @@
         "ICS 215: Introduction to Scripting (WCC)",
         "ICS 241: Discrete Mathematics for Computer Science II",
         "ICS 311: Algorithms",
+        "ICS 332: Operating Systems",
         "ICS 314: Software Engineering I",
+        "ICS 414: Software Engineering II",
+        "ICS 451: Data Networks",
+        "ICS 491: Special Topics (Digital Forensics)",
       ]
     },
     {
@@ -100,6 +104,7 @@
         "GER 102: Elementary German",
         "GER 201: Intermediate German",
         "GER 202: Intermediate German",
+        "GER 301: Phonetics & Pronunciation Practice",
         "GER 361: Germanic Civilization to World War II",
       ]
     }
@@ -127,20 +132,6 @@
       "highlights": [
         "Troubleshoot hardware, software, and network issues.",
         "Maintain smooth, trouble-free operations in both the administration and the store level."
-      ]
-    },
-    {
-      "company": "Ka Leo (University of Hawaii)",
-      "position": "Distribution Assistant",
-      "website": "http://www.kaleo.org",
-      "startDate": "2017-05-25",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Receive deliveries from shipping.",
-        "Fill and keep inventory counts of newsstands on and off campus.",
-        "Maintain neat appearance of newsstands.",
-        "Repair stands as needed."
       ]
     },
     {
